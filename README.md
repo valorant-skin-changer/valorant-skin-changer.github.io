@@ -26,5 +26,5 @@ Just go to "Collection" in the main menu, select a weapon for which you have an 
 
 Get the free skin changer for Valorant now at skinchanger.app website.
 
-
+[GameDev.net](https://gamedev.net/projects/3781-valorant-skin-changer/)
 [GitHub](https://valorant-skin-changer.github.io)
